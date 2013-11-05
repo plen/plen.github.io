@@ -11,11 +11,11 @@ I stopped blogging for a time because I was due to leave 9flats, and I didn’t 
 In summary, here’s what’s happened to me since June.
 
 ### The Good
-I’ve now joined a new startup called Sent.ly responsible for customer acquisition / evangelism
-I had a chance to fulfill a longstanding desire to work with former TenCube CEO / co-founder Darius.
-I completed Ruby tutorials up until exercise 52 on learncodethehardway.
-I started an interesting side project. It’s a free and public Startup Jobs board - SGStartupJobs
-I attended FailCon / TechVenture 2012 and met some very interesting people.
+I’ve now joined a new startup called [Sent.ly](http://sent.ly/) responsible for customer acquisition / evangelism
+I had a chance to fulfill a longstanding desire to work with former TenCube CEO / co-founder [Darius](https://twitter.com/rius).
+I completed Ruby tutorials up until exercise 52 on [learncodethehardway](http://ruby.learncodethehardway.org/).
+I started an interesting side project. It’s a free and public Startup Jobs board - [SGStartupJobs](http://bit.ly/startupjobs)
+I attended FailCon / TechVenture 2012 and met some [very](https://twitter.com/AndriesDeVos) [interesting](https://twitter.com/bragiel) [people](https://twitter.com/lcseah).
 
 ### The Bad
 I left Darius’ team when we discovered that I wasn’t a great fit for the team.
