@@ -8,8 +8,9 @@ production_url : http://weileen.me
 description: "Words & projects by Ng Wei Leen. Inbound Marketing, Distribution Hacking & Startups"
 disqus_shortname: leenblogging
 analytics: UA-31319100-1
+facebook: 227701109
 author :
   name : Ng Wei Leen
   github : plen
   twitter : ngweileen
-  email: plen0@weileen.me
+  email: plen@weileen.me
