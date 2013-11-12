@@ -1,0 +1,51 @@
+---
+layout: keywordjoiner
+title: Keyword Joiner
+---
+
+      <div class="jumbotron">
+        <h1>Bootstrap</h1>
+        <p class="lead">Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.</p>
+        <p>
+          <a href="{{ site.download }}" class="btn btn-outline-inverse btn-lg" onclick="_gaq.push(['_trackEvent', 'Jumbotron actions', 'Download', 'Download 3.0.0']);">Download Bootstrap</a>
+        </p>
+      </div>
+      
+      <div class="form-horizontal panel panel-default">
+        <div class="panel-heading">Parameters</div>
+        <div class="panel_body">
+      <fieldset>
+
+      <!-- Textarea -->
+      <div class="control-group" style="padding:10px;">
+        <label class="control-label">List A</label>
+        <div class="controls">
+          <textarea class="form-control" id="rawkeywordsgroup1" name="listA" rows="3"></textarea>
+        </div>
+      </div>
+
+      <!-- Textarea -->
+      <div class="control-group" style="padding:10px;">
+        <label class="control-label" for="listB">List B</label>
+        <div class="controls">
+          <textarea class="form-control" id="rawkeywordsgroup2" name="listB" rows="3"></textarea>
+        </div>
+      </div>
+
+      <!-- Button -->
+      <div class="control-group" style="padding: 10px;">
+        <label class="control-label" for="submit"></label>
+        <div class="controls">
+          <input type="submit" value="Permutate" class="btn btn-primary" />
+        </div>
+      </div>
+
+      </fieldset>
+      </div>
+      </div> <!-- end keywordsjoiner class div -->
+      
+      <div id="joinedkeywords"></div>
+    
+    </div>
+  </body>
+</html>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ! 'Makers by Cory Doctorow: An Amateur Review'
+title: Makers by Cory Doctorow: An Amateur Review
 tags: 
 ---
 ![Makers by Cory Doctorow](/images/makers-by-cory-doctorow.jpg)							

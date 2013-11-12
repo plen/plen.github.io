@@ -9,6 +9,13 @@ description: "Words & projects by Ng Wei Leen. Inbound Marketing, Distribution H
 disqus_shortname: leenblogging
 analytics: UA-31319100-1
 facebook: 227701109
+og:
+  title: Wei Leen's Blog
+  site_name: LeenBlogging
+twitter:
+  title: Wei Leen's Blog
+  site: ngweileen
+  creator: ngweileen
 author :
   name : Ng Wei Leen
   github : plen

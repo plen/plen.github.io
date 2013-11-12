@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ! 'I’m back.
+title: I’m back.
 ---
 I need to start cleaning up the cobwebs here. But I’ll leave them for just one more day since it’s Halloween.
 
