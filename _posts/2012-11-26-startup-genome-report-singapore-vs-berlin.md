@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Startup Genome Report: Singapore vs Berlin
+title: 'Startup Genome Report: Singapore vs Berlin'
 tags: 
 ---
 I got my hands on the Startup Genome report on startup ecosystems yesterday. It was emailed to me by an acquaintance who’s recently taken a strong interest in the startup scene. Having lived in Berlin for a few months, I’m going to risk some censure by pretending I know something about what goes on in the startup scene there, and compare it to Singapore, where I have lived 13 years, and understand a little better.

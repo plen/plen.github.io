@@ -1,7 +1,9 @@
 ---
 layout: post
-title: TIL that nuffnang, Singapore’s first & only blog-advertising network, now does promo-giveaways too
+title: TIL that nuffnang, one of the early blog-advertising networks, now does promo-giveaways
 ---
+
+![Sunsilk Promo Giveaway](/images/sunsilk-mailer.jpg)
 
 I signed up once for a free bottle of shampoo totally on a whim. I can’t even remember how I stumbled upon the ad that took me to the website. But I did, and several weeks later I’m the proud owner of a complimentary bottle of Sunsilk shampoo.
 
