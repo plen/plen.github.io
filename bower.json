@@ -1,12 +1,12 @@
 {
-  "name": "Carlos Becker Blog",
+  "name": "LeenBlogging",
   "version": "0.0.1",
   "authors": [
-    "Carlos Alexandro Becker <caarlos0@gmail.com>"
+    "Ng Wei Leen <ngweileen@gmail.com>"
   ],
-  "description": "Carlos Becker personal blog at carlosbecker.com",
+  "description": "Wei Leen's personal blog at weileen.me",
   "license": "MIT",
-  "homepage": "http://carlosbecker.com",
+  "homepage": "http://weileen.me",
   "private": true,
   "ignore": [
     "**/.*",
