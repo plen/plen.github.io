@@ -28,8 +28,9 @@ For this post, I'll be keeping the focus on Singapore, so I'll be using google.c
 
 ## Size up the market
 I thought there were at least 3 viable related niches that participants would search for. They are the "make money online", "online surveys" and the "research or medical trials" niche. When performing a search for some keyphrases in Singapore with exact match, I found that the "make money" niche has high volume, while the other 2 have effectively negligible volume.
+
     
-| Keyword | Avg monthly searches | Competition | Suggested bid |
+| **Keyword** | **Avg monthly searches** | **Competition** | **Suggested bid** |
 |---------|----------------------|------------:|--------------:|
 | earn money online | 880 | High | $4.05
 | how to make money online | 590 | High | $4.66
@@ -41,6 +42,7 @@ I thought there were at least 3 viable related niches that participants would se
 | paid medical trials | 10 | Medium | -
 | paid research studies | 10 | Medium | -
     
+
 We may not find the "make money online" niche tasteful, as it is associated with the seedier side of the internet, but there are a lot of people with the intent to convert who are willing to use your service. I don't want to make a judgment about whether it is right to focus on the niche. As long as you aren't running a scam, I really don't think you have anything to worry about.
 
 ## Size up the competition
