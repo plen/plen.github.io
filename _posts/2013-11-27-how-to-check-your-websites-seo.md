@@ -31,7 +31,7 @@ I thought there were at least 3 viable related niches that participants would se
 
 
 | **Keyword** | **Avg monthly searches** | **Competition** | **Suggested bid** |
-|---------|----------------------|------------:|--------------:|
+|---------|----------------------|-------------------:|-------------------:|
 | earn money online | 880 | High | $4.05
 | how to make money online | 590 | High | $4.66
 | how to earn money online | 590 | High | $4.65
@@ -41,8 +41,8 @@ I thought there were at least 3 viable related niches that participants would se
 | how to make money online surveys | 10 | Low | -
 | paid medical trials | 10 | Medium | -
 | paid research studies | 10 | Medium | -
-
-
+<br />
+    
 We may not find the "make money online" niche tasteful, as it is associated with the seedier side of the internet, but there are a lot of people with the intent to convert who are willing to use your service. I don't want to make a judgment about whether it is right to focus on the niche. As long as you aren't running a scam, I really don't think you have anything to worry about.
 
 ## Size up the competition
@@ -94,8 +94,8 @@ There is sufficient traffic even within Singapore only to convert site visitors 
 
 ## Feedback from Userscout CEO [Ariff](https://twitter.com/AriffMunshi)
 
->Truth be told, we are not competing in the online survey space. More on the focus group >recruitment and usability testing recruitment space. Since this month we have been >focusing only on the US trying to get users and projects. We are competing against sites >like findfocugroups.com and fgglobal.com. and ultimately Craigslist etc job postings. >hence keywords are more like "paid focus groups" "find focus groups" "research >participant recruitment" "find research participants".
+>Truth be told, we are not competing in the online survey space. More on the focus group recruitment and usability testing recruitment space. Since this month we have been focusing only on the US trying to get users and projects. We are competing against sites like findfocugroups.com and fgglobal.com. and ultimately Craigslist etc job postings. hence keywords are more like "paid focus groups" "find focus groups" "research participant recruitment" "find research participants".
 
 Thanks Ariff for the feedback. I felt that it is important to give Ariff's response to the post above since it is about his company, and not to mislead prospective clients and users.
 
-What did you think? Was this article useful for you? please leave a comment or tweet to let me know so that future posts can be done better for you.
+What did you think? Was this article useful for you? please leave a comment or tweet to let me know so that future posts can be done better for you. does it work?
