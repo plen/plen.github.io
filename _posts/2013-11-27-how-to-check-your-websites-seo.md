@@ -29,7 +29,7 @@ For this post, I'll be keeping the focus on Singapore, so I'll be using google.c
 ## Size up the market
 I thought there were at least 3 viable related niches that participants would search for. They are the "make money online", "online surveys" and the "research or medical trials" niche. When performing a search for some keyphrases in Singapore with exact match, I found that the "make money" niche has high volume, while the other 2 have effectively negligible volume.
 
-    
+
 | **Keyword** | **Avg monthly searches** | **Competition** | **Suggested bid** |
 |---------|----------------------|------------:|--------------:|
 | earn money online | 880 | High | $4.05
@@ -41,7 +41,7 @@ I thought there were at least 3 viable related niches that participants would se
 | how to make money online surveys | 10 | Low | -
 | paid medical trials | 10 | Medium | -
 | paid research studies | 10 | Medium | -
-    
+
 
 We may not find the "make money online" niche tasteful, as it is associated with the seedier side of the internet, but there are a lot of people with the intent to convert who are willing to use your service. I don't want to make a judgment about whether it is right to focus on the niche. As long as you aren't running a scam, I really don't think you have anything to worry about.
 
@@ -91,3 +91,11 @@ Seeing your shiny profile of backlinks gives you pride, but to really use Majest
 ## Conclusion
 
 There is sufficient traffic even within Singapore only to convert site visitors into research participants. Competition is uneven across keyword niches so there are opportunities to exploit. However, basic on-page SEO needs some work. After that, there is the long-ish process of creating quality pages / blog posts / infographics / videos that can educate people about what userscout can do for them. Userscout is a marketplace and has to serve both client groups well (in terms of SEO), and not just researchers.
+
+## Feedback from Userscout CEO [Ariff](https://twitter.com/AriffMunshi)
+
+>Truth be told, we are not competing in the online survey space. More on the focus group >recruitment and usability testing recruitment space. Since this month we have been >focusing only on the US trying to get users and projects. We are competing against sites >like findfocugroups.com and fgglobal.com. and ultimately Craigslist etc job postings. >hence keywords are more like "paid focus groups" "find focus groups" "research >participant recruitment" "find research participants".
+
+Thanks Ariff for the feedback. I felt that it is important to give Ariff's response to the post above since it is about his company, and not to mislead prospective clients and users.
+
+What did you think? Was this article useful for you? please leave a comment or tweet to let me know so that future posts can be done better for you.
