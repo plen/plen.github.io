@@ -41,8 +41,9 @@ I thought there were at least 3 viable related niches that participants would se
 | how to make money online surveys | 10 | Low | -
 | paid medical trials | 10 | Medium | -
 | paid research studies | 10 | Medium | -
-<br />
     
+<br />    
+
 We may not find the "make money online" niche tasteful, as it is associated with the seedier side of the internet, but there are a lot of people with the intent to convert who are willing to use your service. I don't want to make a judgment about whether it is right to focus on the niche. As long as you aren't running a scam, I really don't think you have anything to worry about.
 
 ## Size up the competition
@@ -98,4 +99,4 @@ There is sufficient traffic even within Singapore only to convert site visitors 
 
 Thanks Ariff for the feedback. I felt that it is important to give Ariff's response to the post above since it is about his company, and not to mislead prospective clients and users.
 
-What did you think? Was this article useful for you? please leave a comment or tweet to let me know so that future posts can be done better for you. does it work?
+What did you think? Was this article useful for you? please leave a comment or tweet to let me know so that future posts can be done better for you.
