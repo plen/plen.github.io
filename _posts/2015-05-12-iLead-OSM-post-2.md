@@ -42,3 +42,11 @@ I started talking to friends with strong overseas ties for intros to interesting
 - Soundcloud
 - Vamos
 - Spotify
+
+I dropped a line to my former boss, friend and mentor [Stephan](http://www.stephan-uhrenbacher.com). He's busy changing the way people experience airports with his latest project - [FLIO](http://www.getflio.com), but I hope to steal some of his time for a few intros.
+
+I also stumble upon a tech conference taking place in Berlin while searching for events that may be interesting for us to attend. The [Tech Open Air](htt[://toa.berlin]) conference has a very attractive lineup and its timing is perfect. I plan to reach out to the organizers to see if we can purchase discounted tickets.
+
+I ping my old friend Zaki in Toronto to bounce the idea of organising a satellite event at TOA Berlin off of him. He's holding the Moonshots portfolio at B2B [advocate marketing](http://www.influitive.com) pioneer Influitive. I figure that if I'm going to think about organising an event, I might as well bring guests from out of town to make it more interesting for attendees.
+
+I received a reply from Roman Rochel, who was my first contact at 9flats. I've never seen a single person give more at his job. He is now Head of the Houzzhold in Germany. He's agreed to let me bring my entourage. First win!
