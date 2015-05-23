@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Why movies like The Avengers are the biggest threat to film theatres"
+category: posts
+---
+The avengers movie is being marketed on a level that defies belief. For the past few weeks, you couldn't get a Subway sandwich without being reminded that it is also the preferred dietary option for Earth's mightiest heroes. Saturation marketing of summer blockbuster is nothing new of course, but there is good reason to think that movie studios are getting sufficient leverage through marketing to really put the squeeze on film theatres.
+
+![Subway-Avengers-ad](/images/subway-avengers-ad.jpg)
+
+Much has changed since the first Avengers movie, and I mean that only from the point of view of the website. Where in 2012, the splash page of the Marvel Asia website prompted visitors to select the country in which they're located, the 2015 iteration is a Javascript-powered single page application that will show you the local language version of the website automatically whilst concealing the difference from being shown in the address bar. 
+
+![Avengers website 2012](/images/asia.marvel.com-2012.png)
+![Avengers website 2015](/images/asia.marvel.com-2015.png)
+
+It looks like Marvel has caught up to the benefits of having a modern website and ad campaign. The website, which displays the same URL (ie. asia.marvel.com/avengers) regardless of where you are located, gives users a more favourable experience. The URL is easier to remember, and you aren't made to feel like your local language website is an afterthought following the main site's creation. Also, the movie's release coincided with an extensive ad campaign that appeared to saturate online media. I copied the following ad while online.
+
+![Avengers movie ad](/images/avengers.jpg)
+
+What caught my eye about it was the call-to-action. I had never seen a movie ad that did anything aside from lead to a trailer. I clicked on it to visit the website. The website has a section called 'Buy Tickets', the unassuming but radical addition that hints at a sea change in how consumers see the purpose of movie websites in future.
+
+![Buy avengers tickets website](/images/asia.marvel.com-tickets.png)
+
+If this is the future of movie websites, we might see the return of the flashy (*pun intended*) movie websites with games, wallpaper downloads, ringtones and so on from the early noughties. After all, if movie studios are finding that online payments technologies and consumer behaviour are favourable to movie ticket purchases online, then there is every reason to invest more resources rather than less into movie marketing.
+
+At the risk of sounding like a dinosaur, there was a time when building websites for major film studios was an extremely lucrative business. Just ask [Patrick Lee](https://twitter.com/rottendoubt), co-founder of my favourite film review website [RottenTomatoes](http://www.rottentomatoes.com) and co-founder of [Design Reactor](http://designreactor.com/), one of THE [web design studios to Hollywood](http://designreactor.com/company/about-us). When Design Reactor was received a contract to create an interactive trailer for The Bourne Identity in 2002, the concept of performance marketing had not even been coined yet. It would be another 3 years before Google Analytics would make it's debut and change how marketers viewed websites forever *(I am aware that companies before Google offered website analytics, but their impact on the world is simply not comparable)*.
+
+Ironically, all the improved technology and freemium software that now powers so much of the internet may not have actually made it that much cheaper for film studios to market their movies through the internet now. As late as 2007, film studios were [spending six-figure sums on websites](http://www.marketingmovies.net/news/changing-roles-for-official-film-websites/) for major releases. The difference now though is that studio execs can start measuring and expecting a positive ROI on those dollars.
+
+In case you remain skeptical about the spending trends of movie studios on online marketing, this chart of searches for "movie trailers" on YouTube from 2008 to 2015 should dispel all doubts.
+
+<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=movie+trailers&gprop=youtube&cmpt=q&tz&tz&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
+
+Users are searching for movie trailers **4.5x** more today than they were at the start of 2008, a worldwide trend that is surely under-representing the volume of searches thanks to the challenge of companies like [Tudou](http://www.tudou.com) in China and other markets where YouTube is not the dominant video service.
+
+Beyond the obvious addition of purpose to a movie's website now, there is a less obvious but more important implication that film studios can now impact the bottom line of movie theatres. With the old model where studios stirred up hype and movie theatres gave away free tickets, the balance of power favoured theatres, who knew their local markets best and could market most effectively to that audience. With the twin forces of online display advertising and social media, studios can now rely upon in-house teams to market to international audiences, undermining the monopoly of influence that theatres used to have on their local markets. If users respond favourably and strongly to the display and social media campaigns of film studios, the studios can reward cooperative theatres with preferential placement on the movie website or penalize them with a poor position, or exclude them altogether. 
+
+The scenario described above is not unprecedented. Coca Cola and Pepsi both offer equipment and lower pricing to restaurants that agree to carry their products exclusively. A profit-maximizing company would choose to carry only one brand. Movie studios appear to be growing the ability to exert just this extent of influence over theatres. Studios already negotiate terms with theatres on how much to charge for screening movies. By controlling the supply of films to theatres, and having a hand in creating demand to those theatres, studios can and will extract stiff terms from them. If we start seeing theatres screening movies from certain studios exclusively, and the closure of smaller theatres, we will know that the capture of movie theatres by studios is complete.
+
+Movie theatres aren't entirely helpless though. They could respond by banding together to negotiate terms with major studios as a group. Failing that, they could also diversify their portfolio of movies. For too long, movie theatres have been screening commercially '*safe*' options like Hollywood blockbusters. Now they are about to pay the price of running into the pocket of their paymaster the studios. Screening more diverse movies can allow them to generate income from audiences with previously underserved movie tastes. This audience will be more likely to be engaged with the brand of the theatre, the same way that audiences are engaged with the '*Marvel*' brand, or the '*James Bond*' brand. Take for instance Singapore; if users could associate GV cinemas with quality Asian films in addition to whatever commercial films available, GV can be the voice of Asian films on Facebook for Singapore, using the same tools that Marvel used but to protect itself from the predations of international film studios. That would be a satisfying conclusion to this saga, and like so often in the movies, exactly what the audience wishes for.
