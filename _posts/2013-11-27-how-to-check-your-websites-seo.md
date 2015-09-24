@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How to check your website's SEO"
-category: posts
 ---
 
 Today I'm trying something new. I spoke to [Ariff Munshi](https://twitter.com/AriffMunshi) a couple of days back. He's one of the entrepreneurs at Blk71 facing the stiff challenge of growth. He wanted to attend the [Hackers&Painters](http://hackersandpainters.sg/events/) talk that I'll be doing on 13 December but circumstances won't allow him to. I thought it would be cool to do a simple SEO audit of Userscout for Ariff, and he graciously agreed to let me. So Ariff, even though you can't make it for Hackers&Painters, don't worry bro, I got you covered.

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "NUS iLead OSM: Berlin 2015 Part 2"
-category: posts
+title: "NUS iLead OSM Berlin 2015 Part 3"
 ---
 ## 30th April (73 days to trip): The list takes shape
 On the 30th of April, I send a bunch of emails to the companies that Sriram introduced to me. Also, I follow up with the companies of my friends that I had yet to reply to. The list of companies now reads:

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "NUS iLead OSM: Berlin 2015 Introduction"
-category: posts
+title: "NUS iLead OSM Berlin 2015 Part 1: Introduction"
 ---
 I was invited recently by NUS Enterprise (the university's link to industry and entrepreneurship support centre) to organize and lead the overseas trip component of the university's 7 month entrepreneurial internship program ([iLead](http://overseas.nus.edu.sg/programmes/short-programmes/ilead)). It's a huge honour for me as I had graduated from the sister program of iLead ([NOC](http://overseas.nus.edu.sg/programmes/full-year-programmes)) with very fond memories. I'm looking forward to working with Peng Kee, who is Senior Manager at NUS Enterprise and in-charge overall of the trip. He's the adult in the room essentially, a heavy load that I'm grateful not to bear alone. This year we will be visiting the world's newest startup hub and my old stomping ground Berlin! Ich liebst du Berlin!
 

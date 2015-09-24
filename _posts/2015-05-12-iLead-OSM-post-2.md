@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "NUS iLead OSM: Berlin 2015 Part 1"
-category: posts
+title: "NUS iLead OSM Berlin 2015 Part 2"
 ---
 ## 21st April (82 days to trip): 1st meeting with Peng Kee
 I met with Peng Kee (NUS Enterprise Senior Manager in charge of the trip) to have our first meeting discussing the trip. I was looking forward to understanding the goals of the trip, and how we would fulfill them, while he was keen to make sure I understood the effort and commitment needed to see the project to completion and was willing to give what was necessary.

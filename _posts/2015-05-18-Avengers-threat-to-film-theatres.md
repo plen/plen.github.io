@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Why movies like The Avengers are the biggest threat to film theatres"
-category: posts
 ---
 The avengers movie is being marketed on a level that defies belief. For the past few weeks, you couldn't get a Subway sandwich without being reminded that it is also the preferred dietary option for Earth's mightiest heroes. Saturation marketing of summer blockbuster is nothing new of course, but there is good reason to think that movie studios are getting sufficient leverage through marketing to really put the squeeze on film theatres.
 

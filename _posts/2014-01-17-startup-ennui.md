@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Startup Ennui"
-category: posts
 ---
 My buddy and [tech podcast](http://launchbyte.com) maven [Bryan Lee](http://bosslee.co) asked me "how do you determine the time frame for product market fit? When do you realize that the product you are you are hacking is only 'good to have' for the users and not a need?"? 
 
