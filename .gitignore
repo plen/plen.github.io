@@ -9,9 +9,5 @@ Thumbs.db
 .rbenv-version
 .rvmrc
 
-*~
-_assets/bootstrap/tests
-node_modules/
-
-bower_components/
-components/
+id_rsa
+id_rsa.pub
