@@ -91,7 +91,7 @@ There is some oddness going on with "indigo" and "indian joke" as suggestions. I
 
 ## Dig Deeper
 
-At this point I find myself wondering what is really going on. I frequent local fora like [Kaskus](http://www.demystifyasia.com/kaskus-indonesias-largest-online-forum/) on occasion but have never detected much interest in American politics. Maybe change was afoot? I ran a Google Trends query after reading Rhea Drysdale's take on the SourceFed video, and found that whether globally or in America, Donald Trump was way ahead of Hillary Clinton in search interest.
+At this point I find myself wondering what is really going on. I frequent local fora like [Kaskus](http://www.demystifyasia.com/kaskus-indonesias-largest-online-forum/) on occasion but have never detected much interest in American politics. Maybe change was afoot? I ran a Google Trends query after reading [Rhea Drysdale's take](https://medium.com/@rhea/hillary-clintons-search-results-manipulated-by-sourcefed-not-google-3dd9a5c68ca1#.68v5r66w9) on the SourceFed video, and found that whether globally or in America, Donald Trump was way ahead of Hillary Clinton in search interest.
 
 <img src ="/images/ww-trump-clinton.png" alt="" class="img-rounded img-responsive">
 
