@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Google Censoring Negative Hillary Clinton News
+title: Is Google Censoring Negative Hillary Clinton News?
 ---
-I was prompted today by my friend [Eli](https://twitter.com/5le) to look into the viral video about Google [censoring negative Hillary Clinton results](https://www.youtube.com/watch?v=PFxFRqNmXKg). After seeing the video by [Sourcefed](https://www.facebook.com/SourceFedNews/), I went right into it to find that not on Google appears to be censoring Hillary Clinton results, Yahoo appears to be doing something similar, but only Microsoft's Bing seems immune to Hillary fever.
+I was prompted today by my friend [Eli](http://www.elischwartz.co) to look into the viral video about Google [censoring negative Hillary Clinton results](https://www.youtube.com/watch?v=PFxFRqNmXKg). After seeing the video by [Sourcefed](https://www.facebook.com/SourceFedNews/), I went right into it to find that not on Google appears to be censoring Hillary Clinton results, Yahoo appears to be doing something similar, but only Microsoft's Bing seems immune to Hillary fever.
 
 ## Google Search in Singapore
 
